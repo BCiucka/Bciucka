@@ -1,4 +1,5 @@
-![coding](https://github.com/BCiucka/Bciucka/assets/128985044/7f3276db-1a6e-4ee1-9a8d-e6267f02aee5)
+![coding](https://github.com/BCiucka/Bciucka/assets/128985044/67b0c3fb-9580-47b9-9d37-d8d7cf2eb864)
+
 
 
 👋 Cześć! Jestem Bartek, student inżynierii biomedycznej na Politechnice Śląskiej. Ostatnio odkrywam fascynujący świat programowania i sukcesywnie rozwijam swoje umiejętności. 💻
