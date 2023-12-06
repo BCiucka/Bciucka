@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+(img align="center" alt="Coding" width="400" src="![coding](https://github.com/BCiucka/Bciucka/assets/128985044/f03fcea0-a726-44d2-88d7-9cb416a7cace)
+")
 
 
 👋 Cześć! Jestem Bartek, student inżynierii biomedycznej na Politechnice Śląskiej. Ostatnio odkrywam fascynujący świat programowania i sukcesywnie rozwijam swoje umiejętności. 💻
