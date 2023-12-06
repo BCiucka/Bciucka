@@ -1,3 +1,15 @@
+👋 Cześć! Jestem Bartek, student inżynierii biomedycznej na Politechnice Śląskiej. Ostatnio odkrywam fascynujący świat programowania i sukcesywnie rozwijam swoje umiejętności. 💻
+
+Dotychczas stworzyłem kilka projektów z wykorzystaniem JavaScript, React.js, Arduino, LabVIEW, Python, SQL, SQLite i Firebase. Mój kod to efekt pasji, eksperymentów i ciągłego uczenia się. 🚀
+
+Po godzinach cieszę się grami komputerowymi, które nie tylko dostarczają mi rozrywki, ale także inspiracji. 🎮 W międzyczasie staram się utrzymać równowagę między kodowaniem a aktywnym trybem życia, uwielbiając rower i jogging. 🚴‍♂️🏃‍♂️
+
+Zachęcam do przeglądania moich projektów na GitHubie – tam znajdziesz dowody mojego postępu i pomysłowości. Jeśli masz pytania, chętnie się nimi podzielę, bo dla mnie każdy projekt to nowa przygoda! 🌐✨
+
+Keep coding and have fun! 🚀👨‍💻
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
