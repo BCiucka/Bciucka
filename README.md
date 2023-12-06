@@ -1,5 +1,4 @@
-img align="center" alt="Coding" width="400" src="![coding](https://github.com/BCiucka/Bciucka/assets/128985044/f03fcea0-a726-44d2-88d7-9cb416a7cace)
-"
+![coding](https://github.com/BCiucka/Bciucka/assets/128985044/7f3276db-1a6e-4ee1-9a8d-e6267f02aee5)
 
 
 👋 Cześć! Jestem Bartek, student inżynierii biomedycznej na Politechnice Śląskiej. Ostatnio odkrywam fascynujący świat programowania i sukcesywnie rozwijam swoje umiejętności. 💻
