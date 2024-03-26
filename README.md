@@ -1,5 +1,5 @@
 
-👋 Cześć! Jestem Bartek, świeżo upieczony inżynier Inżynerii Biomedycznej, a również student Informatyki na Politechnice Śląskiej. Ostatnio odkrywam fascynujący świat programowania i sukcesywnie rozwijam swoje umiejętności. 💻
+👋 Cześć! Jestem Bartek, świeżo upieczony inżynier Inżynerii Biomedycznej,a aktualnie  student Informatyki na Politechnice Śląskiej. Ostatnio odkrywam fascynujący świat programowania i sukcesywnie rozwijam swoje umiejętności. 💻
 
 Dotychczas stworzyłem kilka projektów z wykorzystaniem JavaScript, React.js, Arduino, LabVIEW, Python, SQL, SQLite i Firebase. Mój kod to efekt pasji, eksperymentów i ciągłego uczenia się. 🚀
 
